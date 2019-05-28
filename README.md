@@ -14,7 +14,7 @@
 ```
 
 ### Run your tests
-![头像](https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg)
+<img src="https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
 
 ### Lints and fixes files
 ```
