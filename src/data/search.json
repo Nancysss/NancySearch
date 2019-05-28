@@ -1,0 +1,78 @@
+{
+    "汉堡":[
+        {
+            "id":1,
+            "title":"BURGER KING® 汉堡王中国官网",
+            "url":"http://www.bkchina.cn/",
+            "img":"https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=3255674462,2027240185&fm=58&bpow=1240&bpoh=1240",
+            "desc":"www.bkchina.cn,汉堡王中国,汉堡,皇堡,美国汉堡,汉堡王,国王,king KING,BURGERKING,burgerking,薯条 火烤 BK真不一样 要玩就玩真的 来自美国的汉堡,美味 快餐...",
+            "date":"2天前",
+            "local":"/img/king.57ffef15.png"
+        },
+        {
+            "id":2,
+            "title":"肯德基官方网站 - Welcome to KFC.com.cn",
+            "url":"http://www.kfc.com.cn/kfccda/index.aspx",
+            "img":"https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3776742502,294405296&fm=58&bpow=1024&bpoh=1024",
+            "desc":"中国肯德基官方网站。肯德基KFC坚持“立足中国、融入生活”,打造新快餐,提供早餐,午餐,下午茶,晚餐,夜宵和甜品站等丰富选择。网上订餐,天天优惠。电子优惠券,打印即...",
+            "date":"1天前",
+            "local":"/img/kfc.d28d2e5d.png"
+        },
+        
+        {
+            "id":3,
+            "title":"麦当劳中国",
+            "url":"https://www.mcdonalds.com.cn/",
+            "img":"https://ss3.bdstatic.com/yrwDcj7w0QhBkMak8IuT_XF5ehU5bvGh7c50/logopic/344877134a75d19c4aaba0b2f651311c_fullsize.jpg@s_1,w_484,h_484",
+            "desc":"麦当劳中国官方网站。发现麦当劳的经典汉堡、当期新品、优惠活动和最新优惠券,了解麦当劳企业和招聘信息,还可以寻找附近门店,登陆麦乐送订餐。",
+            "date":"5天前",
+            "local":"/img/mdl.e359f7bd.png"
+        },
+        {
+            "id":4,
+            "title":"必胜客官方网站-首页_必胜客中国",
+            "url":"http://www.pizzahut.com.cn/",
+            "img":"https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3745191688,2795990291&fm=58&bpow=992&bpoh=1024",
+            "desc":"关于必胜客 品牌介绍 新闻中心 企业责任 美味菜单 新品推荐 必胜客下午茶 关注我们 下载APP 官方微信 关注必胜客微信公众号 方式一: 扫描右侧二维码 方式二: 搜索...",
+            "date":"11天前",
+            "local":"/img/bsk.e2ea3f19.png"
+        }
+    ],
+
+
+
+    "今日资讯":[
+        {
+            "id":1,
+            "title":"创业板井喷暗示A股临近变盘窗口 翻倍牛股或来自这些板块",
+            "img":"https://inews.gtimg.com/newsapp_bt/0/8908201460/1000",
+            "url":"https://new.qq.com/omn/20190527/20190527A0EG8O.html",
+            "desc":"周一，两市震荡反弹，午后市场涨幅扩大，创业板涨逾3%，百股涨停。板块方面，软件服务、通讯、券商信托、船舶、电子信息、电子元件、...",
+            "date":"5天前"
+                
+        },
+           {
+            "id":2,
+            "title":"华为高管：我们5G专利全球第一 方案领先友商至少一年？",
+            "img":"https://inews.gtimg.com/newsapp_bt/0/7321125196/1000",
+            "url":"https://new.qq.com/omn/20190527/20190527A0FKGZ.html#p=1",
+            "desc":"近日，华为高管在“2019数博会”上，发表了演讲。他表示，华为在5G领域，已经真正实现全球领先了。提供了16000多个5G标准提案，换成A4纸将近10米高。",
+            "date":"5天前"
+            },
+                {
+            "id":3,
+            "title":"男团斥音悦台私吞专辑销售额，发声明追讨千万款项",
+            "img":"https://inews.gtimg.com/newsapp_bt/0/9120454170/1000",
+            "url":"https://new.qq.com/omn/20190527/20190527A0RNTP.html",
+            "desc":"坤音旗下卜凡、木子洋、灵超、岳岳四位唱跳艺人参加选秀综艺走红，而后组成偶像男团oner，凭借超高颜值、可圈可点的业务能力吸引了许多迷妹关注。",
+            "date":"5天前"
+            }
+
+    ]
+
+
+
+
+
+
+}
