@@ -14,12 +14,16 @@
 ```
 
 ### Run your tests
-<img src="https://github.com/Nancysss/NancySearch/blob/master/public/3.png" width="150" height="150" alt="图片加载失败时，显示这段字"/>
-
-### Lints and fixes files
-```
-yarn run lint
-```
+<img src="https://github.com/Nancysss/NancySearch/blob/master/public/1.png" width="700" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/Nancysss/NancySearch/blob/master/public/2.png" width="700" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/Nancysss/NancySearch/blob/master/public/3.png" width="700" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/Nancysss/NancySearch/blob/master/public/4.png" width="700" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/Nancysss/NancySearch/blob/master/public/5.png" width="700" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/Nancysss/NancySearch/blob/master/public/6.png" width="700" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/Nancysss/NancySearch/blob/master/public/7.png" width="700" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/Nancysss/NancySearch/blob/master/public/8.png" width="700" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/Nancysss/NancySearch/blob/master/public/9.png" width="700" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/Nancysss/NancySearch/blob/master/public/10.png" width="700" alt="图片加载失败时，显示这段字"/>
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
