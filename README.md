@@ -14,7 +14,7 @@
 ```
 
 ### Run your tests
-<img src="https://wx2.sinaimg.cn/mw690/0071daw7gy1g2inu0lvxbj30ku112q5z.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/Nancysss/NancySearch/blob/master/public/3.png" width="150" height="150" alt="图片加载失败时，显示这段字"/>
 
 ### Lints and fixes files
 ```
