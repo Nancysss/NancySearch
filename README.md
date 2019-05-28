@@ -1,8 +1,8 @@
 # 搜索网站
 
-## Project setup
+## 项目描述
 ```
-yarn install
+主要是通过vue脚手架来实现登录账号，信息检索的功能
 ```
 
 ### Compiles and hot-reloads for development
