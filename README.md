@@ -14,9 +14,7 @@
 ```
 
 ### Run your tests
-```
-yarn run test
-```
+![头像](https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg)
 
 ### Lints and fixes files
 ```
