@@ -1,18 +1,16 @@
 # 搜索网站
 
 ## 项目描述
+### 排版
 ```
-主要是通过vue脚手架来实现登录账号，信息检索的功能
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
+页面排版依靠html、css、element-ui
 ```
 
-### Compiles and minifies for production
+### 功能
 ```
-yarn run build
+功能上通过vue.js vue-router ajax 来实现：
+在home主页面实现登录账号、切换搜索引擎（mysearch，百度，谷歌）、信息检索的功能
+在search次页面也拥有实时信息检索功能，通过关键字与本地数据（json文件）进行匹配
 ```
 
 ### Run your tests
